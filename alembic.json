@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "packageId": "pkg-test3-eoaeqxaz",
+  "title": "test3",
+  "description": "",
+  "discipline": "chemistry",
+  "courseContext": {},
+  "license": "CC-BY-4.0",
+  "unitTerm": "chapter",
+  "createdAt": "2026-07-05T04:02:19.163Z",
+  "publicRepo": {
+    "owner": "fishdream25",
+    "name": "test3-eoaeqxaz-oer"
+  },
+  "privateRepo": {
+    "owner": "fishdream25",
+    "name": "test3-eoaeqxaz-private"
+  }
+}
